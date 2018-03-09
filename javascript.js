@@ -156,7 +156,7 @@ function AddNewRecipe(){
     form +="<input type='text' class='form-control' id='title'>";
     form +="</div><div class='form-group'><label for='formGroupExampleInput2'>Ingredients</label>";
     form +="<textarea class='form-control' id='ingredients' rows='3'></textarea>";
-    form +="</div><div class='form-group'><label for='formGroupExampleInput3'>Cooking Instrucions</label>";
+    form +="</div><div class='form-group'><label for='formGroupExampleInput3'>Cooking Instructions</label>";
     form +="<textarea class='form-control' id='instructions' rows='5'></textarea>";
     form +="</div><div class='form-group'><label for='exampleFormControlSelect1'>Type of food</label><select class='form-control time'>";
     form += "<option>Breakfast</option><option>Lunch</option><option>Dinner</option><option>Snack</option><option>Dessert</option></select>";
